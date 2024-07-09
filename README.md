@@ -29,6 +29,9 @@
 - https://rvm.io/rvm/install
 
 ## Style guides
+
+- [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
+
 Google lists more than a dozen style guides for various languages [here](https://google.github.io/styleguide/).
 This is an abbreviated list.
 
