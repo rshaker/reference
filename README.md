@@ -1,4 +1,4 @@
-# General reference
+# General
 
 ## App stores
 - [Chrome Web Store](https://chromewebstore.google.com/)
@@ -9,6 +9,9 @@
 - [Chromium](https://blog.chromium.org/)
 - [Stackoverflow](https://stackoverflow.blog/)
 
+## Design patterns
+- [Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
+  
 ## Docker
 - Root minimal images: [Ubuntu](https://cloud-images.ubuntu.com/minimal/releases/), [Alpine](https://alpinelinux.org/downloads/)
 
