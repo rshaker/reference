@@ -21,12 +21,10 @@
 ## Malware scanning
 - [VirusTotal: analyse suspicious files, domains, IPs and URLs](https://www.virustotal.com/)
 
-## Misc
-- https://caniuse.com/
-- https://github.com/mdn
-- https://github.com/mdn/dom-examples/
-- https://github.com/material-components
-- https://material.io/develop/web
+## Python
+
+- https://peps.python.org/
+- https://docs.python.org/
 
 ## Ruby
 - https://rvm.io/rvm/install
@@ -46,7 +44,7 @@ This is an abbreviated list.
 - [Google Typescript style guide](https://google.github.io/styleguide/tsguide.html)
 - [Google XML style guide](https://google.github.io/styleguide/xmlstyle.html)
 
-# Web dev + browser extensions
+# Web dev
 
 ## API documentation
 
@@ -56,10 +54,16 @@ This is an abbreviated list.
 - [Edge browser web extensions](https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/)
 - [Safari browser web extensions]()
 
-## Sample code
+## Browser compatibility
+
+- https://caniuse.com/
+
+## Example code
 
 - https://github.com/GoogleChrome/chrome-extensions-samples
 - https://github.com/mdn/webextensions-examples
+- https://github.com/mdn/dom-examples/
+- https://github.com/material-components
 
 ## Release notes
 
@@ -79,4 +83,3 @@ This is an abbreviated list.
     </ul>
   </li>
 </ul>
-
