@@ -76,6 +76,9 @@ This is an abbreviated list.
 - [MDN DOM examples](https://github.com/mdn/dom-examples/)
 - [Material components](https://github.com/material-components)
 
+## Messaging
+- [Message passing with Chrome extensions](https://developer.chrome.com/docs/extensions/develop/concepts/messaging)
+
 ## Patterns
 - [web.dev](https://web.dev/patterns) animation, clipboard, components, etc...
 
