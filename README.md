@@ -15,8 +15,11 @@
 ## Blogs
 - [Chrome](https://chromereleases.googleblog.com/)
 - [Chromium](https://blog.chromium.org/)
+- [Cloudflare](https://blog.cloudflare.com/)
+- [Postman](https://blog.postman.com/)
 - [Stackoverflow](https://stackoverflow.blog/)
 - [web.dev](https://web.dev/blog)
+- [Mozilla Add-ons](https://blog.mozilla.org/addons/)
 
 ## Docker
 - Root minimal images: [Ubuntu](https://cloud-images.ubuntu.com/minimal/releases/), [Alpine](https://alpinelinux.org/downloads/)
@@ -69,6 +72,8 @@ This is an abbreviated list.
 ## Browser compatibility
 - [Can I use](https://caniuse.com/)
 - [Browserslist](https://browsersl.ist/)
+- [Browser Compatibility Data (BCD)](https://github.com/mdn/browser-compat-data)
+- [BCD Watch](https://bcd-watch.igalia.com/)
 
 ## Example code
 - [Chrome extension samples](https://github.com/GoogleChrome/chrome-extensions-samples)
@@ -92,5 +97,5 @@ This is an abbreviated list.
 - [Chrome devtools protocol](https://chromedevtools.github.io/devtools-protocol/)
 - [Jest](https://jestjs.io/)
 - [MochaJS](https://mochajs.org/)
-- [Playwright](https://playwright.de)
+- [Playwright](https://playwright.dev)
 - [Puppeteer](https://pptr.dev/)
