@@ -12,14 +12,30 @@
 - [Open Radar: community bug reporting](https://openradar.me)
 - [SwiftUI Lab gists](https://gist.github.com/swiftui-lab) and [blog](https://swiftui-lab.com/) of experiments
 
-## Blogs
+## Blogs + News
+- [Anthropic: Claude](https://claude.com/blog)
+- [Anthropic: News](https://www.anthropic.com/news)
+- [Ars Technica](https://arstechnica.com/)
+- [AWS](https://aws.amazon.com/blogs/aws/)
 - [Chrome](https://chromereleases.googleblog.com/)
 - [Chromium](https://blog.chromium.org/)
 - [Cloudflare](https://blog.cloudflare.com/)
-- [Postman](https://blog.postman.com/)
-- [Stackoverflow](https://stackoverflow.blog/)
-- [web.dev](https://web.dev/blog)
+- [CSS-Tricks](https://css-tricks.com/)
+- [GitHub](https://github.blog/)
+- [Google Developers](https://developers.googleblog.com/)
+- [Hacker News](https://news.ycombinator.com/)
+- [Microsoft Developer](https://devblogs.microsoft.com/)
+- [MITRE ATT&CK](https://medium.com/mitre-attack)
 - [Mozilla Add-ons](https://blog.mozilla.org/addons/)
+- [Netlify](https://www.netlify.com/blog/)
+- [OpenAI: Developers](https://developers.openai.com/blog/)
+- [OpenAI: News](https://openai.com/news/)
+- [Postman](https://blog.postman.com/)
+- [Smashing Magazine](https://www.smashingmagazine.com/)
+- [Stackoverflow](https://stackoverflow.blog/)
+- [The Verge](https://www.theverge.com/)
+- [Vercel](https://vercel.com/blog)
+- [web.dev](https://web.dev/blog)
 
 ## Docker
 - Root minimal images: [Ubuntu](https://cloud-images.ubuntu.com/minimal/releases/), [Alpine](https://alpinelinux.org/downloads/)
